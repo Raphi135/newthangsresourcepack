@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "your_datapack:block/fine_asphalt_block"
-  }
-}
